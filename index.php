@@ -12,7 +12,7 @@ ini_set("memory_limit","3072M");
 $username = "ppabcd"; // diawur, anggep ae (nickname bot) :v
 $botname = "Juliandri Reza";
 $email = "rezajuliandri20@gmail.com"; // email facebook bot
-$pass = "app12345"; // password facebook bot
+$pass = ""; // password facebook bot
 //$gcid = urlencode("1240398659341515"); // target chat
 //$gcid = "875621512565891";
 //$gcid = "1513484758685910";
